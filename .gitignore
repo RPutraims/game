@@ -1,0 +1,13 @@
+# Compiled output
+*.o
+*.out
+*.exe
+a.out
+
+# Build directories
+build/
+bin/
+
+# Editor/OS noise
+.vscode/
+.DS_Store
